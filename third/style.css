@@ -1,0 +1,44 @@
+.logo{
+  width:50px;
+  height:50px;
+  margin-left:20px;
+  margin-top:5px;
+  margin-bottom:5px;
+  border:1px black solid;
+}
+
+
+
+header{
+  background-color:#d8d8d8;
+}
+article{
+  padding-right:4%;
+  padding-left: 4%;
+  padding-top:10px;
+  padding-bottom: 10px;
+  min-height: 20%;
+
+}
+.one{
+  height:100px;
+  min-height: 20%;
+  background-color: #4990E2;
+}
+.two{
+  height:100px;
+  min-height: 20%;
+  background-color: #50E3C2;
+}
+.three{
+  height:100px;
+  min-height: 20%;
+  background-color: #B8E886;
+}
+.four{
+  height:100px;
+  min-height: 20%;
+  background-color: #F8E71C;
+}
+html, body{margin:0px;
+height:100%;}
